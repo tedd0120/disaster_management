@@ -1,0 +1,6 @@
+Disaster,Bandung,Bandung Barat,Bandung City,Banjar City,Bekasi,Bekasi City,Bogor,Bogor City,Ciamis,Cianjur,Cimahi City,Cirebon,Cirebon City,Depok City,Garut,Indramayu,Karawang,Kuningan,Majalengka,Pangandaran,Purwakarta,Subang,Sukabumi,Sukabumi City,Sumedang,Tasikmalaya,Tasikmalaya City
+Earthquake,0.12,0,0,0.02,0,0,0.1,0,0.04,0.02,0.02,0,0,0,0.1,0,0,0.09,0,0.1,0,0.02,0.24,0,0,0.1,0.03
+Fire,0.06,0.01,0.13,0,0.01,0.01,0.03,0.05,0.06,0.01,0.04,0.04,0.01,0.01,0.03,0,0.03,0.06,0.06,0.05,0.05,0.01,0.13,0,0.09,0.01,0.01
+Flood,0.18,0.01,0.03,0,0.06,0.06,0.06,0.03,0.03,0.02,0.04,0.08,0.01,0.01,0.04,0.03,0.08,0.02,0.02,0.03,0,0.02,0.04,0,0.06,0.02,0.02
+Landslide,0.03,0.05,0.01,0,0,0,0.12,0.1,0.06,0.03,0.02,0,0,0,0.07,0,0,0.12,0.07,0.02,0.01,0.01,0.13,0,0.07,0.06,0.02
+Tornado,0.04,0.03,0.01,0.01,0.01,0.01,0.21,0.1,0.09,0.01,0.03,0.04,0.01,0.01,0.02,0.01,0.04,0.03,0.03,0.06,0.01,0.02,0.07,0,0.02,0.02,0.06

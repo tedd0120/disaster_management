@@ -1,0 +1,433 @@
+﻿No,District,Lat,Lon,Warehouse,Capacity,City,Index(City)
+1,Nanggung,-6.663605,106.555092,F, -   ,Bogor,1
+2,Leuwiliang,-6.629519,106.611389,F, -   ,Bogor,1
+3,Cibungbulang,-6.639824,106.673919,F, -   ,Bogor,1
+4,Ciampea,-6.626001,106.70655,F, -   ,Bogor,1
+5,Ciomas,-6.647796,106.759002,F, -   ,Bogor,1
+6,Dramaga,-6.58861,106.739719,T,"5,000,000.00",Bogor,1
+7,Cijeruk,-6.68425,106.783752,F, -   ,Bogor,1
+8,Caringin,-6.72016,106.844425,F, -   ,Bogor,1
+9,Ciawi1,-6.694581,106.866146,F, -   ,Bogor,1
+10,Cisarua1,-6.702336,106.94136,F, -   ,Bogor,1
+11,Megamendung,-6.687169,106.912254,F, -   ,Bogor,1
+12,Cariu,-6.569049,107.1315,F, -   ,Bogor,1
+13,Jonggol,-6.536267,107.027019,F, -   ,Bogor,1
+14,Citeureup,-6.55597,106.900665,F, -   ,Bogor,1
+15,Cileungsi,-6.448846,106.970985,F, -   ,Bogor,1
+16,Gunung Putri,-6.389801,106.946685,F, -   ,Bogor,1
+17,Cimanggis,-6.405124,106.875724,F, -   ,Bogor,1
+18,Cibinong1,-6.485213,106.83744,F, -   ,Bogor,1
+19,Kedunghalang,-6.577594,106.842338,F, -   ,Bogor,1
+20,Semplak,-6.531929,106.750873,F, -   ,Bogor,1
+21,Bojonggede,-6.473949,106.779388,F, -   ,Bogor,1
+22,Sawangan,-6.406834,106.758655,F, -   ,Bogor,1
+23,Lima,-6.354696,106.784714,F, -   ,Bogor,1
+24,Parung,-6.470587,106.700908,F, -   ,Bogor,1
+25,Gunung Sindur,-6.390098,106.693729,F, -   ,Bogor,1
+26,Rumpin,-6.455714,106.65208,F, -   ,Bogor,1
+27,Cigudeg,-6.575007,106.523578,F, -   ,Bogor,1
+28,Jasinga,-6.51048,106.455036,F, -   ,Bogor,1
+29,Parungpanjang,-6.377893,106.561657,F,0,Bogor,1
+30,Tenjo,-6.37645,106.492504,F,0,Bogor,1
+31,Pancoranmas,-6.409698,106.806259,F,0,Depok City,76
+32,Beji,-6.375001,106.818336,F,0,Depok City,76
+33,Sukmajaya,-6.41171,106.842193,F,0,Depok City,76
+34,Ciemas,-7.190154,106.498913,F,0,Sukabumi,2
+35,Parakansalak,-6.79203,106.681656,F,0,Sukabumi,2
+36,Surade,-7.33296,106.596023,F,0,Sukabumi,2
+37,Jampangkulon,-7.231842,106.663227,F,0,Sukabumi,2
+38,Gegerbitung,-6.99382,107.00428,F,0,Sukabumi,2
+39,Tegalbuleud,-7.33882,106.765,F,0,Sukabumi,2
+40,Cidolog,-7.283511,106.854618,F,0,Sukabumi,2
+41,Sagaranten,-7.214037,106.884388,F,0,Sukabumi,2
+42,Lengkong1,-7.109372,106.703243,F,0,Sukabumi,2
+43,Pabuaran1,-7.172678,106.780231,F,0,Sukabumi,2
+44,Pelabuhan Ratu,-7.039549,106.590965,F,0,Sukabumi,2
+45,Warungkiara,-6.981032,106.696453,F,0,Sukabumi,2
+46,Jampang Tengah,-7.065627,106.823406,F,0,Sukabumi,2
+47,Nyalindung,-7.020516,106.913127,F,0,Sukabumi,2
+48,Cikembar,-6.972521,106.794593,F,0,Sukabumi,2
+49,Cibadak,-6.844471,106.881322,F,0,Sukabumi,2
+50,Cikidang,-6.911204,106.638942,F,0,Sukabumi,2
+51,Cisolok,-6.866043,106.490547,F,0,Sukabumi,2
+52,Kalapanunggal,-6.827475,106.652714,F,0,Sukabumi,2
+53,Kabandungan,-6.792224,106.596722,F,0,Sukabumi,2
+54,Ciracap,-7.258578,106.519581,F,0,Sukabumi,2
+55,Parungkuda,-6.83254,106.729927,F,0,Sukabumi,2
+56,Cidahu1,-6.768863,106.732921,F,0,Sukabumi,2
+57,Cicurug,-6.769706,106.784885,F,0,Sukabumi,2
+58,Nagrak,-6.82762,106.836574,F,0,Sukabumi,2
+59,Cisaat,-6.927349,106.873619,F,0,Sukabumi,2
+60,Kadudampit,-6.829412,106.91592,F,0,Sukabumi,2
+61,Sukabumi,-6.86099,106.940841,F,0,Sukabumi,2
+62,Baros,-6.959837,106.925842,F,0,Sukabumi,2
+63,Kalibunder,-7.252032,106.733566,F,0,Sukabumi,2
+64,Sukaraja1,-6.904767,107.002449,F,0,Sukabumi,2
+65,Agrabinta,-7.35919,106.930107,F,0,Cianjur,3
+66,Sindangbarang,-7.414781,107.073223,F,0,Cianjur,3
+67,Cidaun,-7.423459,107.41189,F,0,Cianjur,3
+68,Naringgul,-7.333442,107.364833,F,0,Cianjur,3
+69,Cibinong2,-7.317951,107.192905,F,0,Cianjur,3
+70,Tanggeung,-7.240458,107.167217,F,0,Cianjur,3
+71,Pagelaran,-7.167186,107.188427,F,0,Cianjur,3
+72,Kadupandak,-7.232247,107.018074,F,0,Cianjur,3
+73,Takokak,-7.118832,106.991867,F,0,Cianjur,3
+74,Sukanagara,-7.100312,107.092609,F,0,Cianjur,3
+75,Campaka1,-6.499302,107.484485,F,0,Cianjur,3
+76,Cibeber,-6.951358,107.133678,F,0,Cianjur,3
+77,Bojongpicung,-6.881039,107.277943,F,0,Cianjur,3
+78,Ciranjang,-6.819122,107.283581,F,0,Cianjur,3
+79,Sukaluyu,-6.840498,107.224464,F,0,Cianjur,3
+80,Karangtengah,-6.814873,107.201492,T,2000000,Cianjur,3
+81,Cianjur,-6.824306,107.128658,T,2000000,Cianjur,3
+82,Cilaku,-6.876378,107.162422,F,0,Cianjur,3
+83,Warungkondang,-6.866874,107.059372,F,0,Cianjur,3
+84,Cugenang,-6.809284,107.060081,F,0,Cianjur,3
+85,Pacet1,-6.726204,107.0266,F,0,Cianjur,3
+86,Sukaresmi,-6.718969,107.109981,F,0,Cianjur,3
+87,Mande,-6.761888,107.216659,F,0,Cianjur,3
+88,Cikalong Kulon,-6.673677,107.242401,F,0,Cianjur,3
+89,Ciwidey,-7.127,107.370117,F,0,Bandung,4
+90,Pasirjambu,-7.150698,107.436294,F,0,Bandung,4
+91,Kertasari,-7.228263,107.674782,F,0,Bandung,4
+92,Pacet2,-7.141436,107.684933,F,0,Bandung,4
+93,Paseh1,-7.074684,107.792453,F,0,Bandung,4
+94,Cikandung,-7.041374,107.81921,F,0,Bandung,4
+95,Cicalengka,-7.004158,107.863968,F,0,Bandung,4
+96,Rancaekek,-6.978125,107.763389,F,0,Bandung,4
+97,Majalaya,-7.038529,107.736274,F,0,Bandung,4
+98,Ciparay,-7.052783,107.692481,F,0,Bandung,4
+99,Pameungpeuk1,-7.029622,107.601744,F,0,Bandung,4
+100,Arjasari,-7.08187,107.63575,F,0,Bandung,4
+101,Bale Endah,-7.015246,107.622618,F,0,Bandung,4
+102,Banjaran,-7.081446,107.575413,F,0,Bandung,4
+103,Katapang,-7.008122,107.561264,F,0,Bandung,4
+104,Soreang,-7.013678,107.518383,F,0,Bandung,4
+105,Cililin,-6.978666,107.459976,F,0,Bandung,4
+106,Sindangkerta,-7.042699,107.419781,F,0,Bandung,4
+107,Gununghalu,-7.005451,107.285534,F,0,Bandung,4
+108,Cipongkor,-6.940648,107.367706,F,0,Bandung,4
+109,Batujajar,-6.903908,107.446819,F,0,Bandung,4
+110,Margaasih,-6.953149,107.551433,F,0,Bandung,4
+111,Margahayu,-6.97827,107.577095,F,0,Bandung,4
+112,Dayeuh Kolot,-6.97807,107.613335,T,9000000,Bandung,4
+113,Bojongsoang,-6.99137,107.668746,F,0,Bandung,4
+114,Cileunyi,-6.933668,107.729709,F,0,Bandung,4
+115,Cilengkrang,-6.877595,107.717086,F,0,Bandung,4
+116,Cimenyan,-6.870305,107.671093,F,0,Bandung,4
+117,Lembang,-6.817184,107.668575,F,0,Bandung Barat,17
+118,Cisarua2,-6.788475,107.528459,F,0,Bandung Barat,17
+119,Parongpong,-6.802878,107.59565,F,0,Bandung Barat,17
+120,Ngamprah,-6.847981,107.520344,F,0,Bandung Barat,17
+121,Padalarang,-6.85045,107.491215,F,0,Bandung Barat,17
+122,Cipatat,-6.837378,107.394138,F,0,Bandung Barat,17
+123,Cipeundeuy1,-6.759007,107.361206,F,0,Bandung Barat,17
+124,Cikalong Wetan,-6.747337,107.463497,F,0,Bandung Barat,17
+125,Cimahi Selatan,-6.909601,107.565327,F,0,Cimahi City,77
+126,Cimahi Tengah,-6.890408,107.549515,F,0,Cimahi City,77
+127,Cimahi Utara,-6.864486,107.55907,F,0,Cimahi City,77
+128,Cisewu,-7.420197,107.515835,F,0,Garut,5
+129,Talegong,-7.298021,107.527637,F,0,Garut,5
+130,Bungbulang,-7.424325,107.586033,F,0,Garut,5
+131,Pakenjeng,-7.483082,107.696945,F,0,Garut,5
+132,Pemulihan,-7.359269,107.688782,F,0,Garut,5
+133,Cikelet,-7.556667,107.698418,F,0,Garut,5
+134,Pameungpeuk2,-7.616152,107.727008,F,0,Garut,5
+135,Cibalong1,-7.655276,107.837509,F,0,Garut,5
+136,Cisompet,-7.531171,107.81924,F,0,Garut,5
+137,Singajaya,-7.48965,107.87838,F,0,Garut,5
+138,Peundeuy,-7.543242,107.904392,F,0,Garut,5
+139,Cikajang,-7.400052,107.792671,F,0,Garut,5
+140,Banjarwangi,-7.406378,107.875839,F,0,Garut,5
+141,Cilawu,-7.296483,107.896545,F,0,Garut,5
+142,Bayongbong,-7.293558,107.830971,F,0,Garut,5
+143,Cisurupan,-7.28171,107.766758,F,0,Garut,5
+144,Samarang,-7.192395,107.784016,F,0,Garut,5
+145,Tarogong,-7.192119,107.862064,T,3500000,Garut,5
+146,Garut,-7.24027,107.904391,F,0,Garut,5
+147,Karangpawitan,-7.221715,107.943306,F,0,Garut,5
+148,Wanaraja,-7.190607,108.009307,F,0,Garut,5
+149,Sukawening,-7.15144,108.0265,F,0,Garut,5
+150,Leles,-7.113949,107.857387,F,0,Garut,5
+151,Leuwigoong,-7.126012,107.933952,F,0,Garut,5
+152,Kadungora,-7.07998,107.877239,F,0,Garut,5
+153,Cibluk,-7.073484,107.930557,F,0,Garut,5
+154,Cibatu,-7.085998,107.998184,F,0,Garut,5
+155,Malangbong,-7.056822,108.083793,F,0,Garut,5
+156,Blubur Limbangan,-7.004337,107.950374,F,0,Garut,5
+157,Slawi,-7.000575,107.993957,F,0,Garut,5
+158,Cipatujah,-7.690166,108.016201,F,0,Tasikmalaya,6
+159,Karangnunggal,-7.684908,108.126114,F,0,Tasikmalaya,6
+160,Cikalong,-7.743878,108.195754,F,0,Tasikmalaya,6
+161,Pancatengah,-7.683635,108.298717,F,0,Tasikmalaya,6
+162,Cikatomas,-7.621326,108.273212,F,0,Tasikmalaya,6
+163,Cibalong2,-7.524881,108.161594,F,0,Tasikmalaya,6
+164,Bantarkalong,-7.568059,108.067059,F,0,Tasikmalaya,6
+165,Bojonggambir,-7.579377,107.962715,F,0,Tasikmalaya,6
+166,Sodonghilir,-7.495274,108.048839,F,0,Tasikmalaya,6
+167,Taraju,-7.454111,107.992321,F,0,Tasikmalaya,6
+168,Salawu,-7.386529,107.998405,F,0,Tasikmalaya,6
+169,Sukaraja2,-7.444786,108.158954,T,3500000,Tasikmalaya,6
+170,Tanjung Jaya,-7.41232,108.126041,F,0,Tasikmalaya,6
+171,Salopa,-7.507519,108.263954,F,0,Tasikmalaya,6
+172,Cineam,-7.424099,108.372665,F,0,Tasikmalaya,6
+173,Manonjaya,-7.395913,108.311454,F,0,Tasikmalaya,6
+174,Cibeureum,-7.375214,108.253189,F,0,Tasikmalaya,6
+175,Kawalu,-7.389561,108.188472,T,6400000,Tasikmalaya,6
+176,Singaparna,-7.364118,108.132099,F,0,Tasikmalaya,6
+177,Cigalontang,-7.291283,108.002281,F,0,Tasikmalaya,6
+178,Leuwisari,-7.303568,108.08353,F,0,Tasikmalaya,6
+179,Indihiang,-7.290747,108.132748,F,0,Tasikmalaya,6
+180,Cisayong,-7.235878,108.127941,F,0,Tasikmalaya,6
+181,Rajapolah,-7.227013,108.174927,F,0,Tasikmalaya,6
+182,Jemanis,-7.208951,108.167182,F,0,Tasikmalaya,6
+183,Ciawi2,-7.149234,108.117058,F,0,Tasikmalaya,6
+184,Pagerageung,-7.117577,108.170673,F,0,Tasikmalaya,6
+185,Cipedes,-7.308291,108.220176,F,0,Tasikmalaya City,78
+186,Cihideung,-7.33513,108.205391,F,0,Tasikmalaya City,78
+187,Tawang,-7.339912,108.23098,F,0,Tasikmalaya City,78
+188,Cimerak,-7.740789,108.407242,F,0,Pangandaran,18
+189,Cijulang,-7.712063,108.439655,F,0,Pangandaran,18
+190,Parigi,-7.628637,108.516415,F,0,Pangandaran,18
+191,Pangandaran,-7.632714,108.618374,F,0,Pangandaran,18
+192,Kalipucang,-7.630896,108.73114,F,0,Pangandaran,18
+193,Padaherang,-7.511501,108.686519,F,0,Pangandaran,18
+194,Banjarsari,-7.495741,108.596523,F,0,Ciamis,7
+195,Cigugur1,-7.610436,108.404705,F,0,Ciamis,7
+196,Langkaplancar,-7.557324,108.485752,F,0,Ciamis,7
+197,Pamarican,-7.449765,108.538612,F,0,Ciamis,7
+198,Lakbok,-7.402795,108.641944,F,0,Ciamis,7
+199,Cimaragas,-7.423838,108.436264,F,0,Ciamis,7
+200,Cijeungjing,-7.325896,108.442615,F,0,Ciamis,7
+201,Cisaga,-7.304052,108.503971,F,0,Ciamis,7
+202,Rancah,-7.20205,108.502872,F,0,Ciamis,7
+203,Tambaksari,-7.234871,108.552654,F,0,Ciamis,7
+204,Rajadesa,-7.178287,108.453235,F,0,Ciamis,7
+205,Sukadana,-7.272253,108.449478,F,0,Ciamis,7
+206,Cipaku,-7.234983,108.377925,F,0,Ciamis,7
+207,Ciamis,-7.311137,108.369587,F,0,Ciamis,7
+208,Sadananya,-7.25346,108.322189,F,0,Ciamis,7
+209,Cikoneng,-7.269028,108.259876,F,0,Ciamis,7
+210,Cihaurbeuti,-7.234014,108.241867,F,0,Ciamis,7
+211,Panumbangan,-7.145604,108.22541,F,0,Ciamis,7
+212,Panjalu,-7.122386,108.258369,F,0,Ciamis,7
+213,Kawali,-7.168856,108.347423,F,0,Ciamis,7
+214,Jatinagara,-7.185405,108.408386,F,0,Ciamis,7
+215,Panawangan,-7.100502,108.376693,F,0,Ciamis,7
+216,Banjar,-7.3784,108.509578,T,6500000,Banjar City,79
+217,Purwaharja,-7.33598,108.55178,F,0,Banjar City,79
+218,Pataruman,-7.386671,108.569748,F,0,Banjar City,79
+219,Langensari,-7.364124,108.619705,F,0,Banjar City,79
+220,Kadugede,-7.006789,108.446186,F,0,Kuningan,8
+221,Ciniru,-7.051979,108.483112,F,0,Kuningan,8
+222,Selajambe,-7.101143,108.464145,F,0,Kuningan,8
+223,Subang1,-7.140841,108.562603,T,3500000,Kuningan,8
+224,Ciwaru,-7.090702,108.651371,F,0,Kuningan,8
+225,Cibingbin,-7.059745,108.746444,F,0,Kuningan,8
+226,Luragung,-7.004577,108.6767,F,0,Kuningan,8
+227,Cidahu2,-6.959874,108.656628,F,0,Kuningan,8
+228,Ciawigebang,-6.956148,108.597446,T,4000000,Kuningan,8
+229,Lebakwangi,-7.041812,108.580112,F,0,Kuningan,8
+230,Garawangi,-6.993122,108.52948,F,0,Kuningan,8
+231,Kuningan,-6.983993,108.496872,F,0,Kuningan,8
+232,Cigugur2,-6.942911,108.44894,F,0,Kuningan,8
+233,Karamatmulya,-6.939908,108.489719,F,0,Kuningan,8
+234,Jalaksana,-6.917181,108.512371,F,0,Kuningan,8
+235,Cilimus,-6.873114,108.503673,T,7000000,Kuningan,8
+236,Mandirancan,-6.840167,108.460868,F,0,Kuningan,8
+237,Pasawahan1,-6.838006,108.429149,F,0,Kuningan,8
+238,Beber,-6.814211,108.538937,F,0,Cirebon,9
+239,Lemahabang2,-6.848286,108.624927,F,0,Cirebon,9
+240,Sedong,-6.857685,108.577007,F,0,Cirebon,9
+241,Karangsembung,-6.860822,108.645969,F,0,Cirebon,9
+242,Waled,-6.934632,108.707779,F,0,Cirebon,9
+243,Ciledug,-6.88398,108.749389,F,0,Cirebon,9
+244,Losari,-6.810539,108.784717,F,0,Cirebon,9
+245,Babakan,-6.84466,108.732498,F,0,Cirebon,9
+246,Astanajapura,-6.797985,108.6348,T,2500000,Cirebon,9
+247,Mundu,-6.771136,108.582043,F,0,Cirebon,9
+248,Cirebon Selatan,-6.765462,108.510833,F,0,Cirebon,9
+249,Sumber,-6.773644,108.450481,F,0,Cirebon,9
+250,Palimanan,-6.726667,108.40583,F,0,Cirebon,9
+251,Plumbon,-6.716398,108.458332,F,0,Cirebon,9
+252,Weru,-6.719019,108.495205,F,0,Cirebon,9
+253,Cirebon Barat,-6.718356,108.536029,F,0,Cirebon,9
+254,Cirebon Utara,-6.679371,108.531105,F,0,Cirebon,9
+255,Klangenan,-6.680682,108.466244,F,0,Cirebon,9
+256,Arjawinangun,-6.635813,108.433269,T,8000000,Cirebon,9
+257,Ciwaringin,-6.693043,108.379528,T,3500000,Cirebon,9
+258,Susukan,-6.623553,108.358257,F,0,Cirebon,9
+259,Gegesik,-6.577939,108.40897,F,0,Cirebon,9
+260,Kapetakan,-6.585168,108.503799,F,0,Cirebon,9
+261,Lemahsugih,-7.002,108.195762,F,0,Majalengka,10
+262,Bantarujeg,-6.991435,108.266869,F,0,Majalengka,10
+263,Cikijing,-7.009699,108.342796,F,0,Majalengka,10
+264,Talaga,-6.976102,108.337616,F,0,Majalengka,10
+265,Argapura,-6.89149,108.35308,F,0,Majalengka,10
+266,Maja,-6.898038,108.267284,F,0,Majalengka,10
+267,Majalengka,-6.831594,108.232933,F,0,Majalengka,10
+268,Sukahaji,-6.813765,108.318847,F,0,Majalengka,10
+269,Rajagaluh,-6.813818,108.36885,F,0,Majalengka,10
+270,Jatiwangi1,-6.735129,108.347049,F,0,Majalengka,10
+271,Jatiwangi2,-6.743564,108.257641,F,0,Majalengka,10
+272,Kadipaten,-6.753124,108.178627,F,0,Majalengka,10
+273,Panyingkiran,-6.81321,108.183929,F,0,Majalengka,10
+274,Dawuan,-6.746718,108.21957,T,14000000,Majalengka,10
+275,Kartajati,-6.646376,108.12614,F,0,Majalengka,10
+276,Jatitujuh,-6.622942,108.23753,F,0,Majalengka,10
+277,Ligung,-6.660921,108.278629,F,0,Majalengka,10
+278,Sumberjaya,-6.686487,108.333008,F,0,Majalengka,10
+279,Palasah,-6.731463,108.302353,F,0,Majalengka,10
+280,Cikeruh,-6.923131,107.774193,F,0,Sumedang,11
+281,Cimanggung,-6.945577,107.85316,F,0,Sumedang,11
+282,Tanjungsari,-6.868498,107.809818,F,0,Sumedang,11
+283,Rancakalong,-6.847082,107.835659,F,0,Sumedang,11
+284,Sumedang Selatan,-6.901224,107.923729,F,0,Sumedang,11
+285,Sumedang Utara,-6.853213,107.927982,F,0,Sumedang,11
+286,Situraja,-6.870625,108.039406,F,0,Sumedang,11
+287,Darmaraja,-6.914141,108.046619,F,0,Sumedang,11
+288,Cibugel,-6.960403,108.027797,F,0,Sumedang,11
+289,Wado,-6.980102,108.141857,F,0,Sumedang,11
+290,Cadasngampar,-6.887984,108.152252,F,0,Sumedang,11
+291,Tomo,-6.801525,108.121746,F,0,Sumedang,11
+292,Ujungjaya,-6.701279,108.095661,F,0,Sumedang,11
+293,Congeang,-6.716401,108.037205,T,3000000,Sumedang,11
+294,Paseh2,-6.788918,108.024494,F,0,Sumedang,11
+295,Cimalaka,-6.794875,107.966701,F,0,Sumedang,11
+296,Tanjungkerta,-6.740448,107.879322,F,0,Sumedang,11
+297,Buahdua,-6.670807,107.924995,F,0,Sumedang,11
+298,Haurgeulis,-6.531222,107.935421,F,0,Indramayu,12
+299,Gabuswetan,-6.432937,108.062492,F,0,Indramayu,12
+300,Kroya,-6.521845,108.04052,F,0,Indramayu,12
+301,Cikedung,-6.544773,108.091118,F,0,Indramayu,12
+302,Lelea,-6.487525,108.222259,F,0,Indramayu,12
+303,Bangodua,-6.567775,108.27935,F,0,Indramayu,12
+304,Cijambe,-6.630142,107.781795,F,0,Indramayu,12
+305,Widasari,-6.483842,108.279594,T,3500000,Indramayu,12
+306,Kertasemaya,-6.55267,108.341793,F,0,Indramayu,12
+307,Krangkeng,-6.514744,108.480991,T,21000000,Indramayu,12
+308,Karangampel,-6.4868,108.421028,F,0,Indramayu,12
+309,Juntinyuat,-6.423312,108.413456,F,0,Indramayu,12
+310,Sliyeng,-6.444841,108.342899,F,0,Indramayu,12
+311,Jatibarang,-6.450156,108.307079,F,0,Indramayu,12
+312,Lohbener,-6.39022,108.244263,F,0,Indramayu,12
+313,Indramayu,-6.32,108.326267,T,4000000,Indramayu,12
+314,Balongan,-6.365436,108.368484,F,0,Indramayu,12
+315,Sindang,-6.309645,108.260021,F,0,Indramayu,12
+316,Losarang,-6.367628,108.171916,T,5000000,Indramayu,12
+317,Kandanghaur,-6.366231,108.091598,F,0,Indramayu,12
+318,Bongas,-6.39404,108.020584,F,0,Indramayu,12
+319,Anjatan,-6.382039,107.948188,T,6000000,Indramayu,12
+320,Sukra,-6.311551,107.968597,F,0,Indramayu,12
+321,Sagalaherang,-6.668793,107.64864,F,0,Subang,13
+322,Jalancagak,-6.708429,107.68618,F,0,Subang,13
+323,Cisalak,-6.735978,107.755332,F,0,Subang,13
+324,Tanjungsiang,-6.742223,107.786964,F,0,Subang,13
+325,Subang2,-6.565593,107.75552,F,0,Subang,13
+326,Cibogo,-6.578057,107.824016,F,0,Subang,13
+327,Cipunagara,-6.493074,107.865143,F,0,Subang,13
+328,Pagaden,-6.481869,107.779144,F,0,Subang,13
+329,Kalijati,-6.549434,107.683677,F,0,Subang,13
+330,Cipeundeuy2,-6.543807,107.600704,F,0,Subang,13
+331,Purwadadi,-6.461457,107.708397,F,0,Subang,13
+332,Pabuaran2,-6.460599,107.602443,F,0,Subang,13
+333,Patokbeusi,-6.390856,107.630497,T,6000000,Subang,13
+334,Ciasem,-6.343282,107.659202,F,0,Subang,13
+335,Binong,-6.391513,107.791313,T,7000000,Subang,13
+336,Compreng,-6.412844,107.865597,F,0,Subang,13
+337,Pusakanagara,-6.311551,107.968597,F,0,Subang,13
+338,Pamanukan,-6.270147,107.821598,F,0,Subang,13
+339,Blanakan,-6.277191,107.669651,F,0,Subang,13
+340,Jatiluhur,-6.563824,107.353004,F,0,Purwakarta,14
+341,Tegalwaru,-6.631114,107.344356,F,0,Purwakarta,14
+342,Plered,-6.651903,107.385227,F,0,Purwakarta,14
+343,Sukatani1,-6.627736,107.415985,F,0,Purwakarta,14
+344,Darangdan,-6.702008,107.466806,F,0,Purwakarta,14
+345,Bojong,-6.704757,107.510078,F,0,Purwakarta,14
+346,Wanayasa,-6.648197,107.552399,F,0,Purwakarta,14
+347,Pasawahan2,-6.608912,107.484722,F,0,Purwakarta,14
+348,Purwakarta,-6.516733,107.422249,F,0,Purwakarta,14
+349,Pangkalan,-6.512979,107.243526,F,0,Karawang,15
+350,Telukjambe,-6.397057,107.338541,F,0,Karawang,15
+351,Klari,-6.358762,107.378273,F,0,Karawang,15
+352,Cikampek,-6.380212,107.457207,T,29500000,Karawang,15
+353,Tirtamulya,-6.318197,107.443779,F,0,Karawang,15
+354,Jatisari,-6.329649,107.527706,T,8000000,Karawang,15
+355,Cilamaya,-6.210444,107.556427,T,6000000,Karawang,15
+356,Lemahabang3,-6.262275,107.443199,F,0,Karawang,15
+357,Talagasari,-6.245882,107.406143,F,0,Karawang,15
+358,Karawang,-6.263231,107.323753,T,6000000,Karawang,15
+359,Rawamerta,-6.193781,107.378174,F,0,Karawang,15
+360,Tempuran,-6.161191,107.436401,F,0,Karawang,15
+361,Rangasdenglok,-6.126031,107.317939,F,0,Karawang,15
+362,Pedes,-6.073394,107.376209,F,0,Karawang,15
+363,Cibuaya,-6.021868,107.328174,F,0,Karawang,15
+364,Batujaya,-6.035465,107.234447,F,0,Karawang,15
+365,Pakisjaya,-6.001468,107.134544,F,0,Karawang,15
+366,Pondok Gede,-6.327138,106.928589,F,0,Bekasi City,74
+367,Jatiasih,-6.309854,106.948902,F,0,Bekasi City,74
+368,Bantargebang,-6.328158,107.007675,F,0,Bekasi City,74
+369,Setu,-6.357041,107.046909,F,0,Bekasi,16
+370,Cibarusah,-6.437958,107.144081,F,0,Bekasi,16
+371,Serang,-6.38157,107.138256,F,0,Bekasi,16
+372,Lemahabang1,-6.3066,107.18214,F,0,Bekasi,16
+373,Cikarang,-6.219315,107.191825,F,0,Bekasi,16
+374,Kedung Waringin,-6.250601,107.230987,F,0,Bekasi,16
+375,Tambun,-6.230073,107.05653,F,0,Bekasi,16
+376,Tarumajaya,-6.127556,106.993194,F,0,Bekasi,16
+377,Babelan,-6.122316,107.034897,F,0,Bekasi,16
+378,Tambelang,-6.139104,107.108848,F,0,Bekasi,16
+379,Sukatani2,-6.169133,107.175338,F,0,Bekasi,16
+380,Cabangbungin,-6.051716,107.129931,F,0,Bekasi,16
+381,Muaragembong,-5.988845,107.043384,F,0,Bekasi,16
+382,Bekasi Selatan,-6.247053,106.985828,F,0,Bekasi City,74
+383,Bekasi Barat,-6.211639,106.972267,F,0,Bekasi City,74
+384,Bekasi Utara,-6.195065,107.009056,F,0,Bekasi City,74
+385,Bogor Selatan,-6.600154,106.79766,F,0,Bogor City,71
+386,Bogor Timur,-6.59234,106.800491,F,0,Bogor City,71
+387,Bogor Utara,-6.571832,106.797666,F,0,Bogor City,71
+388,Bogor Tengah,-6.582579,106.78709,F,0,Bogor City,71
+389,Bogor Barat,-6.574977,106.773704,F,0,Bogor City,71
+390,Sukabumi Selatan,-6.937904,106.917675,F,0,Sukabumi City,72
+391,Sukabumi Barat,-6.933953,106.909721,F,0,Sukabumi City,72
+392,Sukabumi Utara,-6.918373,106.907017,F,0,Sukabumi City,72
+393,Sukabumi Timur,-6.918441,106.91756,F,0,Sukabumi City,72
+394,Bandung Kulon,-6.938088,107.572147,F,0,Bandung City,73
+395,Babakan  Ciparay,-6.946422,107.585766,F,0,Bandung City,73
+396,Bojongloa Kaler,-6.936912,107.595631,F,0,Bandung City,73
+397,Bojongloa Kidul,-6.952397,107.60379,F,0,Bandung City,73
+398,Astana Anyar,-6.943958,107.608238,F,0,Bandung City,73
+399,Regol,-6.944056,107.618031,F,0,Bandung City,73
+400,Lengkong2,-6.939168,107.626446,F,0,Bandung City,73
+401,Bandung Kidul,-6.960401,107.632442,F,0,Bandung City,73
+402,Margacinta,-6.954466,107.659225,T,14000000,Bandung City,73
+403,Rancasari,-6.953859,107.694828,F,0,Bandung City,73
+404,Cibiru,-6.923463,107.714508,F,0,Bandung City,73
+405,Ujungberung,-6.923858,107.690446,F,0,Bandung City,73
+406,Arcamanik,-6.922595,107.675384,F,0,Bandung City,73
+407,Cicadas,-6.917567,107.660213,F,0,Bandung City,73
+408,Kiaracondong,-6.929496,107.654094,F,0,Bandung City,73
+409,Batununggal,-6.933804,107.643234,F,0,Bandung City,73
+410,Sumurbandung,-6.919684,107.621242,F,0,Bandung City,73
+411,Andir,-6.912691,107.577653,F,0,Bandung City,73
+412,Cicendo,-6.907599,107.588512,F,0,Bandung City,73
+413,Bandung Wetan,-6.911767,107.622844,F,0,Bandung City,73
+414,Cibeunying Kidul,-6.907635,107.64883,F,0,Bandung City,73
+415,Cibeunying Kaler,-6.893165,107.638077,F,0,Bandung City,73
+416,Coblong,-6.888538,107.620262,F,0,Bandung City,73
+417,Sukajadi,-6.896122,107.592857,F,0,Bandung City,73
+418,Sukasari,-6.868468,107.591308,F,0,Bandung City,73
+419,Cidadap,-6.869652,107.614059,F,0,Bandung City,73
+420,Harjamukti,-6.764959,108.547981,F,0,Cirebon City,74
+421,Lemahwungkuk,-6.733356,108.573734,T,17500000,Cirebon City,74
+422,Pekalipan,-6.733117,108.568222,F,0,Cirebon City,74
+423,Kesambi,-6.741083,108.546238,F,0,Cirebon City,74
+424,Kejaksaan,-6.718115,108.566116,F,0,Cirebon City,74
+425,Manis,-6.682212,107.321399,F,0,Purwakarta,14
+426,Darma,-7.003966,108.420132,F,0,Kuningan,8
+427,Cibitung,-6.253245,107.109878,T,24500000,Bekasi,16
+428,Bekasi Timur,-6.265065,107.007111,F,0,Bekasi City,74
+429,Pebayuran,-6.160563,107.244739,F,0,Bekasi,16
+430,Pangalengan,-7.18578,107.564842,F,0,Bandung,4
+431,Ibun,-7.118252,107.765755,F,0,Bandung,4
+432,Banyuresmi,-7.166388,107.906963,F,0,Garut,5
